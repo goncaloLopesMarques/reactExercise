@@ -1,0 +1,14 @@
+.card-inner{
+    margin-left: 4rem;
+}
+.fontColor{
+    color: black;
+}
+.bottomItems{
+    position: absolute;
+    bottom: 0%;
+}
+.rightItems{
+    position: absolute;
+    right: 25%;  
+}

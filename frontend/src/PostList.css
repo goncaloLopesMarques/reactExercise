@@ -1,0 +1,30 @@
+.postListPosition{
+    position: absolute!important;
+    top: 50vh;
+}
+.btn-right{
+float:right;
+margin-right:10px;
+}
+.fontSize{
+    font-size: 15px;
+}
+.footerFont{
+    color:black
+}
+.cattitle{
+    padding-top:25px;
+    padding-bottom: 25px;
+    font-size:50px;
+}
+.cat{
+    font-size: 35px;
+    margin-right:25px;
+}
+.catSelected{
+    color:blue;
+    border-bottom:4px solid blue;
+}
+.all{
+    color:white;
+}

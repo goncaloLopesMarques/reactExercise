@@ -1,0 +1,19 @@
+.catbar{
+    position: absolute!important;
+    top: 20vh;
+    background-color:#41454c;
+}
+.cat{
+    cursor: pointer;
+}
+.cattitle{
+    font-family: "Times New Roman", Times, serif;
+    padding-bottom: 10px;
+}
+.catname{
+    padding-right: 10px;
+} 
+.selected{
+    color: blue;
+    text-decoration: underline;
+}
